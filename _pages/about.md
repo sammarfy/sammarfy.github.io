@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate @ [Virginia Tech](https://cs.vt.edu/).  Machine Learning Researcher.
+subtitle: <a href='#'>Ph.D. Candidate @ Virginia Tech.  Machine Learning Researcher.</a>
 
 profile:
   align: right
