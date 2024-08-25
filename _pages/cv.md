@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assests/pdf/example_pdf.pdf
+permalink: assets/pdf/example_pdf.pdf
 title: CV
 nav: true
 nav_order: 3
