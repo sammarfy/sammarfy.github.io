@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate @ Virginia Tech
+subtitle: Ph.D. Candidate @ [Virginia Tech](https://cs.vt.edu/).  Machine Learning Researcher.
 
 profile:
   align: right
