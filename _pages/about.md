@@ -22,4 +22,4 @@ Hi there! I am a final-year Ph.D. candidate at the Computer Science Department a
 
 Under the supervision of [Prof. Anuj Karpatne](https://people.cs.vt.edu/karpatne/) in [KGML lab](https://kgml-lab.github.io/), my work extends to the development of Knowledge-Guided Machine Learning approaches for graph representation learning, GANs, segmentation, and imageomics, with a commitment to drive forward the convergence of Computer Vision, Graph Neural Networks, Deep Learning, and Natural Language Processing in scientific research.
 
-I've also gathered experience in industry as a *research intern at Amazon (2022) and Qualcomm (2021)*. In 2023, I was awarded the **Kafura Graduate Fellowship** from the Computer Science department at Virginia Tech.
+I've also gathered experience in industry as a *research intern at Amazon (2022) and Qualcomm (2021)*. In 2023, I was awarded the [Kafura Graduate Fellowship](https://cs.vt.edu/Graduate/Funding/fellowships.html) from the Computer Science department at Virginia Tech.
