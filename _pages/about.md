@@ -8,23 +8,10 @@ profile:
   align: right
   image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-        <p style="margin: 0;">
-          <a href="mailto:karpatne@vt.edu" style="text-decoration: none; color: #D44638; margin: 0 10px;">
-            <i class="fas fa-envelope" style="font-size: 24px;"></i>
-          </a>
-          <a href="https://people.cs.vt.edu/karpatne/" style="text-decoration: none; color: #0a7cdb; margin: 0 10px;">
-            <i class="fas fa-globe" style="font-size: 24px;"></i>
-          </a>
-          <a href="https://x.com/anujkarpatne" style="text-decoration: none; color: #1DA1F2; margin: 0 10px;">
-            <i class="fab fa-twitter-square" style="font-size: 24px;"></i>
-          </a>
-          <a href="https://www.linkedin.com/in/anuj-karpatne-a816281b" style="text-decoration: none; color: #0077b5; margin: 0 10px;">
-            <i class="fab fa-linkedin" style="font-size: 24px;"></i>
-          </a>
-        </p>
-      </div>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>      
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
