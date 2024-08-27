@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: For an updated list please visit [Google Scholar](https://scholar.google.com/citations?user=SiY3Sz4AAAAJ). * denotes equal contribution.
+description: #
 nav: true
 nav_order: 1
 ---
@@ -14,6 +14,9 @@ nav_order: 1
 <!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
+    <p>
+        For an updated list please visit <a href="https://scholar.google.com/citations?user=SiY3Sz4AAAAJ">Google Scholar</a>. * denotes equal contribution.
+    </p>
 
 {% bibliography %}
 
