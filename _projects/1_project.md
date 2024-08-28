@@ -1,14 +1,16 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Phylo Diffusion
+description:  Graph as a modality to conditional Diffusion Models, namely Phylo-Diffusion, for understanding in evolutionary traits in biological specimens. 
+img: assets/img/publication_preview/phyloDiffusion.jpg 
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
+<meta http-equiv="refresh" content="0; url=https://imageomics.github.io/phylo-diffusion/"/>
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +80,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
