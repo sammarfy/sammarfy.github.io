@@ -4,7 +4,7 @@ title: Phylo Diffusion
 description:  Graph as a modality to conditional Diffusion Models, namely Phylo-Diffusion, for understanding in evolutionary traits in biological specimens. 
 img: assets/img/publication_preview/phyloDiffusion.jpg 
 importance: 1
-category: work
+category: Research
 related_publications: true
 ---
 
