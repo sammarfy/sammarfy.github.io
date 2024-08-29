@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yay. PhyloDiffusion paper is accepted at ECCV 2024! Check it out: [here](https://arxiv.org/pdf/2408.00160v1).
+Yay :tada:  PhyloDiffusion paper is accepted at ECCV 2024! Check it out: [here](https://arxiv.org/pdf/2408.00160v1).
