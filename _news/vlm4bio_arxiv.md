@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-VLM4Bio is in arxiv!! Check it out [here](https://arxiv.org/abs/2405.13063)
+VLM4Bio is in arxiv!! Check it out [here](https://arxiv.org/abs/2408.16176)
