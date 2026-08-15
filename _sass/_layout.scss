@@ -57,13 +57,11 @@ body.sticky-bottom-footer {
 
 body {
   font-family:
-    Inter,
-    "Avenir Next",
     -apple-system,
     BlinkMacSystemFont,
+    "SF Pro Text",
+    "Helvetica Neue",
     "Segoe UI",
-    Roboto,
-    Helvetica,
     Arial,
     sans-serif;
   font-size: 16.5px;
@@ -272,4 +270,30 @@ body {
 .about-page .clearfix strong,
 .about-page .clearfix b {
   color: inherit;
+}
+
+
+/* Name typography */
+.about-page .post-title,
+.navbar-brand.title {
+  font-family:
+    Inter,
+    "Avenir Next",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+.name-initial {
+  color: var(--global-text-color);
+  font-weight: 400;
+}
+
+.name-main {
+  color: var(--global-text-color);
+  font-weight: 400;
 }
