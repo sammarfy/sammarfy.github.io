@@ -248,3 +248,17 @@ body {
     }
   }
 }
+
+.about-page {
+  .publication-note {
+    margin-top: -0.4rem;
+    margin-bottom: 1.7rem;
+    color: var(--global-text-color-light);
+    font-size: 0.98rem;
+    line-height: 1.55;
+
+    a {
+      font-weight: 600;
+    }
+  }
+}

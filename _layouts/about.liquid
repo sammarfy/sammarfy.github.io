@@ -59,8 +59,14 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2 id="selected-publications" style="scroll-margin-top: 90px;">
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
+        Selected Publications
       </h2>
+      <p class="publication-note">
+        For a complete and up-to-date list of publications, please visit my
+        <a href="https://scholar.google.com/citations?user=SiY3Sz4AAAAJ"
+           target="_blank"
+           rel="noopener noreferrer">Google Scholar</a>.
+      </p>
       {% include selected_papers.liquid %}
     {% endif %}
 
