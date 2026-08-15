@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Applied Scientist @ Amazon AGI | Foundation Models | Speech AI | Multimodal Generative AI"
+subtitle: "Applied Scientist at Amazon AGI · Speech & Audio Foundation Models · Multimodal AI"
 
 profile:
   align: right
-  image: profile_pic.png
+  image: maruf_profile_2026.png
   image_circular: true
 
 news: true
