@@ -2,26 +2,40 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Ph.D. Candidate @ Virginia Tech.  Machine Learning Researcher.</a>
+subtitle: "Applied Scientist @ Amazon AGI | Foundation Models | Speech AI | Multimodal Generative AI"
 
 profile:
   align: right
   image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>      
+  image_circular: false
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
 ---
 
-Hi there! I am a **final-year Ph.D. candidate** in the Computer Science Department at Virginia Tech. I am working on integrating multimodal data, including knowledge graphs, images, and textual information, into machine learning models, particularly Vision Language Models, to enhance their applicability in scientific domains.
+Hi! I'm Maruf, an **Applied Scientist II at Amazon AGI Foundations**, where I work on multimodal foundation models for speech and audio. My work spans large-scale pretraining, supervised fine-tuning, preference optimization, reinforcement learning, multilingual ASR and TTS, conversational AI, and scalable model evaluation.
 
-Under the supervision of [Prof. Anuj Karpatne](https://people.cs.vt.edu/karpatne/) in [KGML lab](https://kgml-lab.github.io/), my work extends to the development of Knowledge-Guided Machine Learning approaches for graph representation learning, GANs, segmentation, and imageomics, with a commitment to drive forward the convergence of Computer Vision, Graph Neural Networks, Deep Learning, and Natural Language Processing in scientific research.
+I have worked on the **pretraining, post-training, evaluation, and production delivery of Nova Sonic**, Amazon's speech-to-speech foundation model. My recent work includes designing large-scale pretraining recipes and data mixtures, generating and filtering training data, building multilingual evaluation pipelines, and developing post-training methods using supervised fine-tuning, Direct Preference Optimization, and reinforcement learning.
 
-I've also gathered experience in industry as a *research intern at Amazon (2022) and Qualcomm (2021)*. In 2023, I was awarded the [Kafura Graduate Fellowship](https://cs.vt.edu/Graduate/Funding/fellowships.html) from the Computer Science department at Virginia Tech.
+I received my **Ph.D. in Computer Science from Virginia Tech**, where I worked with Prof. Anuj Karpatne. My doctoral research focused on multimodal learning, vision-language models, knowledge-guided machine learning, graph representation learning, generative modeling, and AI for scientific discovery.
 
-Prior to joining the Ph.D. program, I completed my Master’s at [CS@VT](https://cs.vt.edu/). Previously, I had completed my Bachelor’s in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/). Apart from academia, I love reading books, playing Chess and Table tennis.
+My research has been published at venues including **NeurIPS, ICLR, CVPR, ECCV, AAAI, KDD, ICASSP, and SDM**. I am broadly interested in building foundation models that can learn, reason, and interact across speech, language, vision, and other modalities.
+
+## Research Interests
+
+**Foundation Models** · **Speech & Audio AI** · **Multimodal LLMs** · **LLM Post-training** · **Reinforcement Learning** · **Generative AI** · **AI for Science**
+
+## Experience
+
+**Amazon AGI — Applied Scientist II**  
+*Seattle, WA · Dec 2024 – Present*  
+Working on multimodal speech foundation models, including large-scale pretraining, post-training, multilingual ASR/TTS, conversational AI, evaluation, and production model delivery.
+
+**Amazon — Applied Scientist Intern**  
+*Bellevue, WA · May 2022 – Aug 2022*  
+Developed a real-time delivery image-ranking algorithm that combined object detection with statistical ranking methods and improved performance over prior baselines.
+
+**Qualcomm — Machine Learning Engineer Intern**  
+*Santa Clara, CA · Jun 2021 – Aug 2021*  
+Worked with the GNSS Location team on graph neural networks and robust machine learning for satellite-based position estimation.
