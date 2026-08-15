@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Maruf
+first_name: M.
 middle_name: 
-last_name: M.
+last_name: Maruf
 email: marufm@vt.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Applied Scientist at Amazon AGI working on foundation models, speech AI, multimodal generative AI, and LLM post-training.
